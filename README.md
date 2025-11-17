@@ -11,7 +11,7 @@
 ### 📈 Data & Statistiques
 - Analyse de données : **R**, **Python**, **Stata**, **Excel-VBA**  
 - Analyse exploratoire & datavisualisation  
-- Probabilités, modélisation & concepts statistiques
+- Probabilités & concepts statistiques
 
 ### 💻 Programmation
 - **HTML / CSS**  
