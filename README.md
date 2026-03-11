@@ -59,21 +59,6 @@
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge)
 
----
-
-## 📂 Featured Projects
-
-📊 **Economic Data Analysis**
-
-Exploratory analysis of macroeconomic indicators using **R and ggplot2**.
-
-📈 **Financial Market Analysis**
-
-Analysis of financial time series using **Python (pandas, matplotlib)**.
-
-📉 **Econometric Modeling**
-
-Application of regression models using **Stata**.
 
 ---
 
