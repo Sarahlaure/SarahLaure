@@ -22,7 +22,7 @@
 
 ## 📊 Areas of Interest
 
-- 📈 Financial Markets  
+- 📈 Finance 
 - 📊 Economic Data Analysis  
 - 📉 Econometrics & Statistical Modeling  
 - 🌍 Development Economics  
@@ -30,57 +30,73 @@
 
 ---
 
-## 🛠️ Technical Skills
+<h2 align="center">🛠️ Technical Skills</h2>
+
+---
 
 <p align="center">
+<b>📊 Data Analysis & Statistics</b>
+</p>
 
-### 📊 Data Analysis & Statistics
-
+<p align="center">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stata-1F4E79?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
+<p align="center">
 Exploratory Data Analysis • Statistical Analysis • Probability
-
 </p>
 
 ---
 
 <p align="center">
+<b>📈 Econometrics & Quantitative Methods</b>
+</p>
 
-### 📈 Econometrics & Quantitative Methods
-
+<p align="center">
 Regression Analysis • Econometric Modeling • Data Interpretation
-
 </p>
 
 ---
 
 <p align="center">
+<b>💻 Programming</b>
+</p>
 
-### 💻 Programming
-
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
 </p>
 
 ---
 
 <p align="center">
+<b>🗂️ Data Tools</b>
+</p>
 
-### 🗂️ Data Tools
-
+<p align="center">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+</p>
 
-Excel Data Analysis • Dashboards • Automation
+---
 
+<p align="center">
+<b>🎨 Design & Communication</b>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+<p align="center">
+Professional Presentations • Visual Communication
 </p>
 
 ---
