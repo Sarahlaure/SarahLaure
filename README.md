@@ -101,18 +101,6 @@ Professional Presentations • Visual Communication
 
 ---
 
-<p align="center">
-
-### 🎨 Design & Communication
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-Professional Presentations • Visual Communication
-
-</p>
-
----
-
 ## 📊 Top Languages
 
 <p align="center">
